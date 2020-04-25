@@ -12,6 +12,11 @@ sections:
   path: training/building_courses.md
   label: Building Courses
   match: "**/*"
+- type: document
+  path: about.md
+  label: About
+  match: "**/*"
+  read_only: false
 - type: heading
   label: XPlane
 - type: document
@@ -22,11 +27,6 @@ sections:
   path: xplane/setup.md
   label: XPlane Setup
   match: "**/*"
-- type: document
-  path: about.md
-  label: About
-  match: "**/*"
-  read_only: false
 - type: document
   path: data/theme.json
   label: Theme config

@@ -1,14 +1,4 @@
 ---
 label: Pricing
 hide_body: false
-fields:
-- name: first-solo_pricing
-  type: textarea
-  default: ''
-  config:
-    required: false
-    wysiwyg: false
-    schema:
-      format: markdown
-  label: First-Solo Pricing
-  description: Test
+fields: []

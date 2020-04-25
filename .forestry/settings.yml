@@ -7,26 +7,20 @@ sections:
 - type: document
   path: pricing.md
   label: Pricing
-  match: "**/*"
 - type: document
   path: training/building_courses.md
   label: Building Courses
-  match: "**/*"
 - type: document
   path: about.md
   label: About
-  match: "**/*"
-  read_only: false
 - type: heading
   label: XPlane
 - type: document
   path: training/xplane.md
   label: Training With XPlane
-  match: "**/*"
 - type: document
   path: xplane/setup.md
   label: XPlane Setup
-  match: "**/*"
 - type: document
   path: data/theme.json
   label: Theme config
